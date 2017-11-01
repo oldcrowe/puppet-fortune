@@ -1,0 +1,15 @@
+{
+  "name": "mcrowley-fortune",
+  "version": "0.1.0",
+  "author": "mcrowley",
+  "summary": "Installs fortune on linux nodes.",
+  "license": "Apache-2.0",
+  "source": "https://github.com/oldcrowe/puppet-fortune.git",
+  "project_page": "https://github.com/oldcrowe/puppet-fortune",
+  "issues_url": "https://github.com/oldcrowe/puppet-fortune/issues",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ],
+  "data_provider": null
+}
+
